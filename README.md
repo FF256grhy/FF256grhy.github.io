@@ -1,3 +1,3 @@
-# TEST!
-�y�[�W�쐬�̃e�X�g�ł��B
+﻿# TEST!
+ページ作成のテストです。
 [link](text.txt)
