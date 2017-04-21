@@ -1,2 +1,3 @@
 # TEST!
-Test.
+ページ作成のテストです。
+[link](text.txt)
