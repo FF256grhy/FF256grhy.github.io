@@ -1,3 +1,4 @@
 ﻿# TEST!
 ページ作成のテストです。
-[link](text.txt)
+[link](test.txt)
+[link](untitled-1.pdf)
